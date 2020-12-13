@@ -1,4 +1,4 @@
-# Project 1 -- Billboard 
+# CPSC 203 Project 1 -- Billboard 
 
 Learning objectives:
 
